@@ -1,0 +1,6 @@
+index.html
+story.html
+style.css
+script.js
+stories.json
+README.md (already created by GitHub, ya custom paste kar do)
